@@ -2,6 +2,8 @@
 
 I am a software engineer who is enjoys building fun projects and learning new tech stacks in my free time. I am also a researcher who is passionate about reapplying theoretical concepts from programming languages or formal methods to better software engineering practices (code quality, testing, security).
 
+Find my [portfolio](https://dah-fari7009.github.io/) online.
+
 <!--
 **dah-fari7009/dah-fari7009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

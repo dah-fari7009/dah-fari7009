@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there, I'm Faridah 👋🏾 👩🏾‍💻
+
+I am a software engineer who is enjoys building fun projects and learning new tech stacks in my free time. I am also a researcher who is passionate about reapplying theoretical concepts from programming languages or formal methods to better software engineering practices.
 
 <!--
 **dah-fari7009/dah-fari7009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
